@@ -361,5 +361,7 @@ Contributions are welcome! Please follow these steps:
 **Built with ❤️ for better healthcare**
 
 ⭐ Star this repo if you find it helpful!
----
--By varshith
+
+-Developed by Varshith
+
+
